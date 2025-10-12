@@ -3,8 +3,8 @@ I’m a cybersecurity enthousiast. I am a student, developer and instructor base
 My interests in cybersecurity are systems protection, automation tools enhancement, vulnerability assessment & exploitation. 
 
 
-[![GitHub public stats](https://github-readme-stats.vercel.app/api?username=arthubhub&show_icons=true&theme=gruvbox)](https://github.com/arthubhub)
-[![Top Languages from public repos](https://github-readme-stats.vercel.app/api/top-langs/?username=arthubhub&layout=compact&theme=gruvbox)](https://github.com/arthubhub)
+[![GitHub public stats](https://github-readme-stats.vercel.app/api?username=arthubhub&show_icons=true&theme=tokyonight)](https://github.com/arthubhub)
+[![Top Languages from public repos](https://github-readme-stats.vercel.app/api/top-langs/?username=arthubhub&layout=compact&theme=tokyonight)](https://github.com/arthubhub)
 ---
   
 ## About Me
