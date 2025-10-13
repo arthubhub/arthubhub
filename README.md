@@ -63,7 +63,7 @@ Here are some of the tools, languages, and frameworks I use frequently:
 
 ---
 
-## 📬 Contact & Connect
+## Contact & Connect
 
 - Personal site: [arthurbidet.fr](http://arthurbidet.fr)  
 - LinkedIn : [https://fr.linkedin.com/in/arthur-bidet-019642295](https://fr.linkedin.com/in/arthur-bidet-019642295)
