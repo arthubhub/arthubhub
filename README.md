@@ -3,7 +3,6 @@ I’m a cybersecurity enthousiast. I am a student, developer and instructor base
 My interests in cybersecurity are systems protection, automation tools enhancement, vulnerability assessment & exploitation. 
 
 
-[![GitHub public stats](https://github-readme-stats.vercel.app/api?username=arthubhub&show_icons=true&theme=merko)](https://github.com/arthubhub)
 [![Top Languages from public repos](https://github-readme-stats.vercel.app/api/top-langs/?username=arthubhub&layout=compact&theme=merko)](https://github.com/arthubhub)
 ---
   
@@ -22,10 +21,10 @@ Here are some of my selected works & ongoing projects:
 
 | Project | Summary |
 |---|---|
-| *IOCparser* | Threat Intelligence crawling tool that automatically creates sigma rules and sync them |
-| *Email Analyser* | Emai Analysis tool made with python3, flask, with multiple analsis views |
-| *Multiarch pwnbox* | Automatically creates an environment to test programs from various arch |
-| *AI Powered Shell* | Shell (bash/zsh) extension for local AI support. Avoid terminal/internet switching |
+| *[IOCparser](https://github.com/arthubhub/IOCparser)* | Threat Intelligence crawling tool that automatically creates sigma rules and sync them |
+| *[Email Analyser](https://github.com/arthubhub/emails_analyzer)* | Emai Analysis tool made with python3, flask, with multiple analsis views |
+| *[Multiarch pwnbox](https://github.com/arthubhub/Multiarch-PwnBox)* | Automatically creates an environment to test programs from various arch |
+| *[AI Powered Shell](https://github.com/arthubhub/AI_powered_Shell)* | Shell (bash/zsh) extension for local AI support. Avoid terminal/internet switching |
 
 You can find a fuller list of my projects on my site : [http://arthurbidet.fr/projets.html](http://arthurbidet.fr/projets.html).  
 
