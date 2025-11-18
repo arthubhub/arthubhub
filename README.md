@@ -11,7 +11,8 @@ My interests in cybersecurity are systems protection, automation tools enhanceme
 - I am highly interested in Blue Team
 - I really like some topics of pentesting like wireless communication, network and BOF, web.
 - Here is my personal website : http://arthurbidet.fr
-- I am currently working on [https://github.com/Kron-OS](https://github.com/Kron-OS)
+- I am currently defining *[https://github.com/Kron-OS](https://github.com/Kron-OS)*
+- I am terminating the project *[AI Powered Shell](https://github.com/arthubhub/AI_powered_Shell)*
 
 ---
 
@@ -21,10 +22,10 @@ Here are some of my selected works & ongoing projects:
 
 | Project | Summary |
 |---|---|
+| *[AI Powered Shell](https://github.com/arthubhub/AI_powered_Shell)* | Shell (bash/zsh) extension for local AI support. Avoid terminal/internet switching |
 | *[IOCparser](https://github.com/arthubhub/IOCparser)* | Threat Intelligence crawling tool that automatically creates sigma rules and sync them |
 | *[Email Analyser](https://github.com/arthubhub/emails_analyzer)* | Emai Analysis tool made with python3, flask, with multiple analsis views |
 | *[Multiarch pwnbox](https://github.com/arthubhub/Multiarch-PwnBox)* | Automatically creates an environment to test programs from various arch |
-| *[AI Powered Shell](https://github.com/arthubhub/AI_powered_Shell)* | Shell (bash/zsh) extension for local AI support. Avoid terminal/internet switching |
 
 You can find a fuller list of my projects on my site : [http://arthurbidet.fr/projets.html](http://arthurbidet.fr/projets.html).  
 
@@ -48,8 +49,9 @@ You can find more about my course materials on [http://arthurbidet.fr/cours.html
 
 ## CV
 
-You can find my full CV (in French) here:  
-[CV (PDF)](http://arthurbidet.fr/source/annexes/cv.pdf)  
+You can find my CV here:  
+[CV FR (PDF)](http://arthurbidet.fr/source/annexes/cv.pdf)  
+
 
 ---
 
@@ -60,6 +62,7 @@ Here are some of the tools, languages, and frameworks I use frequently:
 - **Languages**: C, Python3, Bash, AWK, Web basis, SQL;
 - **Frameworks / Libraries**: Flask, Sqlite3, Yara & Sigma;
 - **Tools**: Git, Docker, Kubernetes, CI/CD;
+- **Cybersecurity** : Defensive tools, analysis tools, offensive security;
 - **Other**: Operating systems (Linux, Windows, MacOS).
 
 ---
