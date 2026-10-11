@@ -11,8 +11,8 @@ My interests in cybersecurity are systems protection, automation tools enhanceme
 - I am highly interested in Blue Team
 - I really like some topics of pentesting like wireless communication, network and BOF, web.
 - Here is my personal website : http://arthurbidet.fr
-- I am currently defining *[https://github.com/Kron-OS](https://github.com/Kron-OS)*
-- I am terminating the project *[AI Powered Shell](https://github.com/arthubhub/AI_powered_Shell)*
+- I am currently imagining new hunting systems *[https://github.com/arthubhub/MSSentinel-PivotRules](https://github.com/arthubhub/MSSentinel-PivotRules)*
+- I am terminating the project *[https://github.com/Kron-OS/KronOS_template/tree/feat/nextgen-soc-cert-platform](https://github.com/Kron-OS/KronOS_template/tree/feat/nextgen-soc-cert-platform)*
 
 ---
 
@@ -24,7 +24,7 @@ Here are some of my selected works & ongoing projects:
 |---|---|
 | *[AI Powered Shell](https://github.com/arthubhub/AI_powered_Shell)* | Shell (bash/zsh) extension for local AI support. Avoid terminal/internet switching |
 | *[IOCparser](https://github.com/arthubhub/IOCparser)* | Threat Intelligence crawling tool that automatically creates sigma rules and sync them |
-| *[Email Analyser](https://github.com/arthubhub/emails_analyzer)* | Emai Analysis tool made with python3, flask, with multiple analsis views |
+| *[Email Analyser](https://github.com/arthubhub/emails_analyzer)* | Email Analysis tool made with python3, flask, with multiple analsis views |
 | *[Multiarch pwnbox](https://github.com/arthubhub/Multiarch-PwnBox)* | Automatically creates an environment to test programs from various arch |
 
 You can find a fuller list of my projects on my site : [http://arthurbidet.fr/projets.html](http://arthurbidet.fr/projets.html).  
@@ -59,7 +59,8 @@ You can find my CV here:
 
 Here are some of the tools, languages, and frameworks I use frequently:
 
-- **Languages**: C, Python3, Bash, AWK, Web basis, SQL;
+- **Programming Languages**: C, Python3, Bash, AWK, Web basis, SQL;
+- **Detection Language**: KQL, YARA-L, SPL, SOL, ...
 - **Frameworks / Libraries**: Flask, Sqlite3, Yara & Sigma;
 - **Tools**: Git, Docker, Kubernetes, CI/CD;
 - **Cybersecurity** : Defensive tools, analysis tools, offensive security;
