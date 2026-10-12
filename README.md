@@ -33,7 +33,7 @@ You can find a fuller list of my projects on my site : [http://arthurbidet.fr/pr
 
 ## Teaching & Courses
 
-I have taught courses in:
+I have taught courses in: (100% human made, product of pain and pleasure) 
 - WiFi security ([WEP, WPA2](https://arthurbidet.fr/cours_WiFi_WPA.html), [WPA2-Entreprise](https://arthurbidet.fr/cours_WiFi_RogueAP.html))
 - [NFC Hacking](https://arthurbidet.fr/article_reversenfcpaymentsystem.html)
 - [Buffer Overflow vulns](https://arthurbidet.fr/source/annexes/WS_PWN_HackUTT_2025.pdf) (basic to full protections)
