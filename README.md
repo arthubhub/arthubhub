@@ -1,5 +1,5 @@
 #  Welcome to arthub github  
-I’m a cybersecurity enthousiast. I am a student, developer and instructor based in France.  
+I’m a cybersecurity enthusiast, forever a student, developer and instructor based in France.  
 My interests in cybersecurity are systems protection, automation tools enhancement, vulnerability assessment & exploitation. 
 
 
@@ -34,24 +34,16 @@ You can find a fuller list of my projects on my site : [http://arthurbidet.fr/pr
 ## Teaching & Courses
 
 I have taught courses in:
-- WiFi security (WEP, WPA2, WPA2-Entreprise)
-- NFC Hacking
-- Buffer Overflow vulns (basic to full protections)
-- Format String vulns
-- Heap vulns
-- Phishing
-- IoT hacking (serial interfaces, firmware analysis)
-- Blue Team methods, how to setup an Opensearch Server
+- WiFi security ([WEP, WPA2](https://arthurbidet.fr/cours_WiFi_WPA.html), [WPA2-Entreprise](https://arthurbidet.fr/cours_WiFi_RogueAP.html))
+- [NFC Hacking](https://arthurbidet.fr/article_reversenfcpaymentsystem.html)
+- [Buffer Overflow vulns](https://arthurbidet.fr/source/annexes/WS_PWN_HackUTT_2025.pdf) (basic to full protections)
+- [Format String vulns](https://arthurbidet.fr/source/annexes/Projet_Securite_C_FMTSTR.pdf)
+- [Heap vulns](https://arthurbidet.fr/source/annexes/WS_PWN_HackUTT_2024.pdf)
+- [Phishing](https://arthurbidet.fr/cours_Phishing_Email.html)
+- [IoT hacking](https://arthurbidet.fr/article_biosrecovery.html) (serial interfaces, firmware analysis)
+- Blue Team methods, how to setup an [Opensearch Server](https://arthurbidet.fr/cours_OpenSearch.html)
 
 You can find more about my course materials on [http://arthurbidet.fr/cours.html](http://arthurbidet.fr/cours.html).
-
----
-
-## CV
-
-You can find my CV here:  
-[CV FR (PDF)](http://arthurbidet.fr/source/annexes/cv.pdf)  
-
 
 ---
 
